@@ -1,6 +1,6 @@
 # Problem Solving Record
 
-BOJ  : [BaekjoonOnlineJudge](https://acmicpc.net)
+BOJ  : [BaekjoonOnlineJudge](https://www.acmicpc.net/user/res1235)
 
 SWEA : [SW Expert Academy](https://swexpertacademy.com)
 
