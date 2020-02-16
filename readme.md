@@ -8,6 +8,7 @@ SWEA : [SW Expert Academy](https://swexpertacademy.com)
 
 |  Date | Last updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
+|  2020. 2. 16 | 2020. 2. 17 | BOJ | 2661 | 좋은 수열 | Medium | Python | Backtracking |
 |  2020. 2. 13 | 2020. 2. 13 | BOJ | 10828 | 스택 | Easy | Go | Data structure |
 |  2020. 2. 12 | 2020. 2. 12 | BOJ | 15596 | 정수 N개의 합 | Easy | Go | Mathematics |
 |  2020. 2. 12 | 2020. 2. 12 | BOJ | 9095 | 1, 2, 3  더하기 | Easy | Go | Mathematics |
