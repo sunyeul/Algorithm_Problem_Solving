@@ -6,8 +6,11 @@ BOJ  : [BaekjoonOnlineJudge](https://www.acmicpc.net/user/res1235)
 
 SWEA : [SW Expert Academy](https://swexpertacademy.com)
 
+LC : [LeetCode](https://leetcode.com/res1235)
+
 |  Date | Last updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
+|  2020. 2. 18 | 2020. 2. 18 | LC | 141 | Linked List Cycle | Easy | Python | Linked List |
 |  2020. 2. 18 | 2020. 2. 18 | BOJ | 10974 | 완전 순열 | Easy | Python | Permutation |
 |  2020. 2. 17 | 2020. 2. 17 | BOJ | 10973 | 이전 순열 | Easy | Python | Permutation |
 |  2020. 2. 17 | 2020. 2. 17 | BOJ | 10972 | 다음 순열 | Easy | Python | Permutation |
