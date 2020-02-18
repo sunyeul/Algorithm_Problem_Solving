@@ -7,17 +7,20 @@ BOJ  : [BaekjoonOnlineJudge](https://www.acmicpc.net/user/res1235)
 SWEA : [SW Expert Academy](https://swexpertacademy.com)
 
 LC : [LeetCode](https://leetcode.com/res1235)
-
-|  Date | Last updated | Site | Number | Title | Difficulty | Language | Algorithm |
+|  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
-|  2020. 2. 18 | 2020. 2. 18 | LC | 141 | Linked List Cycle | Easy | Python | Linked List |
 |  2020. 2. 18 | 2020. 2. 18 | BOJ | 10974 | 완전 순열 | Easy | Python | Permutation |
-|  2020. 2. 17 | 2020. 2. 17 | BOJ | 10973 | 이전 순열 | Easy | Python | Permutation |
-|  2020. 2. 17 | 2020. 2. 17 | BOJ | 10972 | 다음 순열 | Easy | Python | Permutation |
+|  2020. 2. 18 | 2020. 2. 18 | LC | 141 | Linked List Cycle | Easy | Python | Linked list |
+|  2020. 2. 18 | 2020. 2. 18 | BOJ | 10819 | 차이를 최대로 | Easy | Python | Brute force |
+|  2020. 2. 18 | 2020. 2. 18 | BOJ | 14888 | 연산자 끼워넣기 | Easy | Python | Brute force |
+|  2020. 2. 18 | 2020. 2. 18 | BOJ | 6603 | 로또 | Easy | Python | Brute force |
+|  2020. 2. 18 | 2020. 2. 18 | BOJ | 1182 | 부분수열의 합 | Easy | Python | Brute force |
+|  2020. 2. 17 | 2020. 2. 17 | BOJ | 2661 | 좋은수열 | Medium | Go | Backtracking |
 |  2020. 2. 17 | 2020. 2. 17 | BOJ | 1759 | 암호 만들기 | Medium | Go | Backtracking |
-|  2020. 2. 17 | 2020. 2. 17 | BOJ | 2661 | 좋은 수열 | Medium | Go | Backtracking |
+|  2020. 2. 17 | 2020. 2. 17 | BOJ | 10972 | 다음 순열 | Easy | Python | Permutation |
+|  2020. 2. 17 | 2020. 2. 17 | BOJ | 10973 | 이전 순열 | Easy | Python | Permutation |
 |  2020. 2. 16 | 2020. 2. 17 | BOJ | 1759 | 암호 만들기 | Medium | Python | Backtracking |
-|  2020. 2. 16 | 2020. 2. 17 | BOJ | 2661 | 좋은 수열 | Medium | Python | Backtracking |
+|  2020. 2. 16 | 2020. 2. 17 | BOJ | 2661 | 좋은수열 | Medium | Python | Backtracking |
 |  2020. 2. 13 | 2020. 2. 13 | BOJ | 10828 | 스택 | Easy | Go | Data structure |
 |  2020. 2. 12 | 2020. 2. 12 | BOJ | 15596 | 정수 N개의 합 | Easy | Go | Mathematics |
 |  2020. 2. 12 | 2020. 2. 12 | BOJ | 9095 | 1, 2, 3  더하기 | Easy | Go | Mathematics |
@@ -86,7 +89,7 @@ LC : [LeetCode](https://leetcode.com/res1235)
 |  2019. 11. 29 | 2019. 11. 29 | BOJ | 10870 | 피보나치 수 5 | Easy | Python | Mathematics |
 |  2019. 9. 26 | 2019. 9. 26 | BOJ | 2261 | 가장 가까운 두 점 | Hard | Python | Line sweeping |
 |  2019. 9. 25 | 2019. 9. 25 | BOJ | 6549 | 히스토그램에서 가장 큰 직사각형 | Hard | Python | Divide and Conquer |
-|  2019. 9. 24 | 2019. 9. 24 | BOJ | 10830 | 행렬 제곱 | Medium | Python | Matrix |
+|  2019. 9. 24 | 2019. 9. 24 | BOJ | 10830 | 행렬 제곱 | Medium | Python | Mathematics |
 |  2019. 9. 23 | 2020. 1. 25 | BOJ | 1780 | 종이의 개수 | Easy | Python | Divide and Conquer |
 |  2019. 9. 21 | 2020. 1. 25 | BOJ | 5430 | AC | Easy | Python | Data structure |
 |  2019. 9. 18 | 2020. 1. 25 | BOJ | 2217 | 로프 | Easy | Python | Greedy algorithm |
