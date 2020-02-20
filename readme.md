@@ -9,6 +9,7 @@ SWEA : [SW Expert Academy](https://swexpertacademy.com)
 LC : [LeetCode](https://leetcode.com/res1235)
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
+|  2020. 2. 21 | 2020. 2. 21 | LC | 347 | Top K Frequent Elements | Easy | Python | Sorting Algorithm |
 |  2020. 2. 21 | 2020. 2. 21 | LC | 215 | Kth Largest Element in an Array | Easy | Python | Sorting Algorithm |
 |  2020. 2. 21 | 2020. 2. 21 | LC | 78 | Subsets | Easy | Python | Reculsive Algorithm |
 |  2020. 2. 21 | 2020. 2. 21 | LC | 94 | Binary Tree Inorder Traversal | Easy | Python | Reculsive Algorithm |
