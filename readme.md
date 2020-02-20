@@ -9,6 +9,7 @@ SWEA : [SW Expert Academy](https://swexpertacademy.com)
 LC : [LeetCode](https://leetcode.com/res1235)
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
+|  2020. 2. 21 | 2020. 2. 21 | LC | 94 | Binary Tree Inorder Traversal | Medium | Python | Reculsive Algorithm |
 |  2020. 2. 20 | 2020. 2. 20 | BOJ | 14501 | 퇴사 | Easy | Python | Dynamic programming |
 |  2020. 2. 19 | 2020. 2. 20 | BOJ | 15948 | 간단한 문제 | Hard | Python | Mathematics |
 |  2020. 2. 18 | 2020. 2. 18 | BOJ | 10974 | 완전 순열 | Easy | Python | Permutation |
