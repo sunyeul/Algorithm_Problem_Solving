@@ -9,8 +9,12 @@ SWEA : [SW Expert Academy](https://swexpertacademy.com)
 LC : [LeetCode](https://leetcode.com/res1235)
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
-|  2020. 2. 28 | 2020. 2. 28 | LC | 33 | Search in Rotated Sorted Array | Medium | Python | Binary serach |
 |  2020. 2. 28 | 2020. 2. 28 | BOJ | 4963 | 섬의 개수 | Easy | Python | DFS and BFS |
+|  2020. 2. 28 | 2020. 2. 28 | LC | 33 | Search in Rotated Sorted Array | Medium | Python | Binary serach |
+|  2020. 2. 28 | 2020. 2. 28 | LC | 1360 | Number of Days Between Two Dates | Easy | Python | Brute force |
+|  2020. 2. 28 | 2020. 2. 28 | LC | 1362 | Closest Divisors | Easy | Python | Mathematics |
+|  2020. 2. 28 | 2020. 2. 28 | LC | 1361 | Validate Binary Tree Node | Medium | Python | Tree |
+|  2020. 2. 28 | 2020. 2. 28 | LC | 1363 | Largest Multiple of Three | Hard | Python | Mathematics |
 |  2020. 2. 27 | 2020. 2. 27 | BOJ | 11724 | 연결 요소의 개수 | Easy | Python | DFS and BFS |
 |  2020. 2. 25 | 2020. 2. 25 | BOJ | 11723 | 집합 | Easy | Python | Bitmasking |
 |  2020. 2. 23 | 2020. 2. 25 | BOJ | 10971 | 외판원 순회 2 | Easy | Python | Bitmasking |
