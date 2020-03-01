@@ -9,6 +9,8 @@ SWEA : [SW Expert Academy](https://swexpertacademy.com)
 LC : [LeetCode](https://leetcode.com/res1235)
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
+|  2020. 3. 1 | 2020. 3. 1 | BOJ | 7576 | 토마토 | Easy | Python | DFS and BFS |
+|  2020. 2. 29 | 2020. 2. 29 | BOJ | 2178 | 미로 탐색 | Easy | Python | DFS and BFS |
 |  2020. 2. 28 | 2020. 2. 28 | BOJ | 4963 | 섬의 개수 | Easy | Python | DFS and BFS |
 |  2020. 2. 28 | 2020. 2. 28 | LC | 33 | Search in Rotated Sorted Array | Medium | Python | Binary serach |
 |  2020. 2. 28 | 2020. 2. 28 | LC | 1360 | Number of Days Between Two Dates | Easy | Python | Brute force |
