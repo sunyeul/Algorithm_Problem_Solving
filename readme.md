@@ -9,6 +9,7 @@ LC : [LeetCode](https://leetcode.com/res1235)
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | --- | --- | --- | :---: | --- | --- | --- | --- |
 |  2020. 3. 8 | 2020. 3. 8 | BOJ | 7576 | 토마토 | Easy | Go | DFS and BFS |
+|  2020. 3. 8 | 2020. 3. 8 | BOJ | 10971 | 외판원 순회 2 | Easy | Go | Bitmasking |
 |  2020. 3. 7 | 2020. 3. 7 | LC | 162 | Find Peak Element | Medium | Go | Binary search |
 |  2020. 3. 3 | 2020. 3. 3 | LC | 162 | Find Peak Element | Medium | Python | Binary search |
 |  2020. 3. 2 | 2020. 3. 3 | BOJ | 13023 | ABCDE | Medium | Python | DFS and BFS |
