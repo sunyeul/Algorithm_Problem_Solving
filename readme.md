@@ -7,8 +7,10 @@ SWEA : [SW Expert Academy](https://swexpertacademy.com)
 LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
-| --- | --- | --- | :---: | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 3. 10 | 2020. 3. 10 | BOJ | 1697 | 숨바꼭질 | Easy | Python | Recursive algorithm |
 |  2020. 3. 9 | 2020. 3. 9 | BOJ | 2667 | 단지번호붙이기 | Easy | Python | DFS and BFS |
+|  2020. 3. 9 | 2020. 3. 10 | BOJ | 1697 | 숨바꼭질 | Easy | Python | DFS and BFS |
 |  2020. 3. 8 | 2020. 3. 8 | BOJ | 7576 | 토마토 | Easy | Go | DFS and BFS |
 |  2020. 3. 8 | 2020. 3. 8 | BOJ | 10971 | 외판원 순회 2 | Easy | Go | Bitmasking |
 |  2020. 3. 7 | 2020. 3. 7 | LC | 162 | Find Peak Element | Medium | Go | Binary search |
