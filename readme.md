@@ -8,6 +8,7 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 3. 11 | 2020. 3. 11 | BOJ | 1261 | 알고스팟 | Medium | Python | Dijkstra algorithm |
 |  2020. 3. 10 | 2020. 3. 10 | LC | 49 | Group Anagrams | Medium | Python | String algorithm |
 |  2020. 3. 10 | 2020. 3. 10 | LC | 287 | Find the Duplicate Number | Medium | Python | Two pointers |
 |  2020. 3. 10 | 2020. 3. 10 | BOJ | 13023 | ABCDE | Medium | Python | DFS and BFS |
