@@ -8,6 +8,7 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 3. 16 | 2020. 3. 16 | BOJ | 14226 | 이모티콘 | Medium | Python | DFS and BFS |
 |  2020. 3. 16 | 2020. 3. 16 | BOJ | 13549 | 숨바꼭질 3 | Medium | Python | Recursive algorithm |
 |  2020. 3. 16 | 2020. 3. 16 | BOJ | 13549 | 숨바꼭질 3 | Medium | Python | DFS and BFS |
 |  2020. 3. 11 | 2020. 3. 11 | BOJ | 1261 | 알고스팟 | Medium | Python | Dijkstra algorithm |
