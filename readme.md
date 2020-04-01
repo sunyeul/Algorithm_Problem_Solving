@@ -8,6 +8,8 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 4. 1 | 2020. 4. 1 | LC | 289 | Game of Life | Medium | Python | Array |
+|  2020. 3. 31 | 2020. 3. 31 | BOJ | 1707 | 이분 그래프 | Medium | Go | DFS and BFS |
 |  2020. 3. 31 | 2020. 3. 31 | BOJ | 1707 | 이분 그래프 | Medium | Python | DFS and BFS |
 |  2020. 3. 18 | 2020. 3. 18 | LC | 22 | Generate Parentheses | Medium | Go | String algorithm |
 |  2020. 3. 17 | 2020. 3. 17 | LC | 238 | Product of Array Except Self | Medium | Go | Array |
