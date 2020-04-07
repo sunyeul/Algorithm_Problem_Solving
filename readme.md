@@ -8,6 +8,14 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 4. 7 | 2020. 4. 7 | LC |  | Counting Element | Easy | Python |  |
+|  2020. 3. 10 | 2020. 4. 6 | LC | 49 | Group Anagrams | Medium | Python | String algorithm |
+|  2020. 4. 5 | 2020. 4. 5 | LC | 188 | Best Time to Buy and Sell Stock II | Easy | Python | Array |
+|  2020. 4. 5 | 2020. 4. 5 | LC | 123 | Best Time to Buy and Sell Stock | Easy | Python | Dynamic programming |
+|  2020. 4. 5 | 2020. 4. 5 | LC | 122 | Best Time to Buy and Sell Stock III | Hard | Python | Dynamic programming |
+|  2020. 4. 5 | 2020. 4. 5 | LC | 121 | Best Time to Buy and Sell Stock IV | Hard | Python | Dynamic programming |
+|  2020. 4. 4 | 2020. 4. 4 | LC | 283 | Move Zeroes | Easy | Python | Two pointers |
+|  2020. 4. 4 | 2020. 4. 4 | LC | 53 | Maximum Subarray | Easy | Python | Array |
 |  2020. 4. 1 | 2020. 4. 1 | LC | 289 | Game of Life | Medium | Python | Array |
 |  2020. 3. 31 | 2020. 3. 31 | BOJ | 1707 | 이분 그래프 | Medium | Go | DFS and BFS |
 |  2020. 3. 31 | 2020. 3. 31 | BOJ | 1707 | 이분 그래프 | Medium | Python | DFS and BFS |
