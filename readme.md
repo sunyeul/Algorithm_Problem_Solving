@@ -8,6 +8,11 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 4. 14 | 2020. 4. 14 | LC |  | Perform String Shifts | Easy | Python | String algorithm |
+|  2020. 4. 13 | 2020. 4. 13 | LC | 525 | Contiguous Array | Medium | Python | Array |
+|  2020. 4. 12 | 2020. 4. 12 | LC | 1046 | Last Stone Weight | Easy | Python | Heap |
+|  2020. 4. 10 | 2020. 4. 10 | LC | 543 | Diameter of Binary Tree | Easy | Python | Tree |
+|  2020. 4. 9 | 2020. 4. 9 | LC | 155 | Min Stack | Easy | Python | Data structure |
 |  2020. 4. 7 | 2020. 4. 7 | LC |  | Counting Element | Easy | Python |  |
 |  2020. 3. 10 | 2020. 4. 6 | LC | 49 | Group Anagrams | Medium | Python | String algorithm |
 |  2020. 4. 5 | 2020. 4. 5 | LC | 188 | Best Time to Buy and Sell Stock II | Easy | Python | Array |
