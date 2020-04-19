@@ -8,6 +8,7 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 4. 17 | 2020. 4. 17 | LC | 678 | Valid Parenthesis String | Medium | Python | String algorithm |
 |  2020. 4. 14 | 2020. 4. 14 | LC |  | Perform String Shifts | Easy | Python | String algorithm |
 |  2020. 4. 13 | 2020. 4. 13 | LC | 525 | Contiguous Array | Medium | Python | Array |
 |  2020. 4. 12 | 2020. 4. 12 | LC | 1046 | Last Stone Weight | Easy | Python | Heap |
