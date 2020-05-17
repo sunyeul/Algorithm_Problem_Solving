@@ -8,8 +8,9 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 PG : [Programmers](https://programmers.co.kr/learn/challenges)
 
+|  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  2020. 5. 17 | 2020. 5. 17 | PG | 42841 | 숫자 야구 | Easy | Python | Brute force |
-| --- | --- | :---: | :---: | --- | :---: | :---: | --- |
 |  2020. 4. 27 | 2020. 4. 27 | LC | 200 | Number of Islands | Medium | Python | DFS and BFS |
 |  2020. 4. 27 | 2020. 4. 27 | LC | 64 | Minimum Path Sum | Medium | Python | Dynamic programming |
 |  2020. 4. 17 | 2020. 4. 17 | LC | 678 | Valid Parenthesis String | Medium | Python | String algorithm |
