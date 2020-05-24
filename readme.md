@@ -8,9 +8,12 @@ LC : [LeetCode](https://leetcode.com/res1235)
 
 PG : [Programmers](https://programmers.co.kr/learn/challenges)
 
-|  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  2020. 5. 23 | 2020. 5. 24 | BOJ | 3305 | 탈출 | Medium | Python | DFS and BFS |
+|  Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 5. 24 | LC | 421 | Maimum XOR of Two Numers in an Array | Medium | Python | Bit Manipulation |
+|  2020. 5. 24 | BOJ | 3305 | 탈출 | Medium | Python | DFS and BFS |
+|  2020. 5. 24 | BOJ | 2206 | 벽 부수고 이동하기 | Medium | Python | DFS and BFS |
+|  2020. 5. 24 | BOJ | 13505 | 두 수 XOR | Medium | Python | Bit Manipulation |
 |  2020. 5. 17 | 2020. 5. 17 | PG | 42841 | 숫자 야구 | Easy | Python | Brute force |
 |  2020. 4. 27 | 2020. 4. 27 | LC | 200 | Number of Islands | Medium | Python | DFS and BFS |
 |  2020. 4. 27 | 2020. 4. 27 | LC | 64 | Minimum Path Sum | Medium | Python | Dynamic programming |
