@@ -10,6 +10,8 @@ PG : [Programmers](https://programmers.co.kr/learn/challenges)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 7. 5 | 2020. 7. 5 | LC | 264 | Ugly Numbers II | Medium | Python | Dynamic programming |
+|  2020. 7. 3 | 2020. 7. 3 | LC | 1232 | Check If It Is a Straight Line | Easy | Python | Mathematics |
 |  2020. 7. 2 | 2020. 7. 2 | LC | 441 | Arranging Coins | Easy | Python | Mathematics |
 |  2020. 7. 2 | 2020. 7. 2 | LC | 476 | Number Complement | Easy | Python | Bit manipulation |
 |  2020. 5. 24 | LC | 421 | Maimum XOR of Two Numers in an Array | Medium | Python | Bit Manipulation |
