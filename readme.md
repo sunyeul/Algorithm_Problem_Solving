@@ -12,6 +12,9 @@ AC : [AtCoder](https://atcoder.jp)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 8. 13 | 2020. 8. 13 | LC | 70 | Climbing Stairs | Easy | Go | Dynamic programming |
+|  2020. 8. 13 | 2020. 8. 13 | LC | 101 | Symmetric Tree | Easy | Go | Recursive algorithm |
+|  2020. 8. 13 | 2020. 8. 13 | LC | 198 | House Robber | Easy | Go | Dynamic programming |
 |  2020. 8. 12 | 2020. 8. 12 | LC | 21 | Merge Two Sorted Lists | Easy | Go | Linked list |
 |  2020. 8. 12 | 2020. 8. 12 | LC | 226 | Invert Binary Tree | Easy | Go | Tree |
 |  2020. 8. 12 | 2020. 8. 12 | LC | 448 | Find All Numbers Disappeared in an Array | Easy | Go | Array |
