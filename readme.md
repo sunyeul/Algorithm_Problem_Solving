@@ -12,6 +12,10 @@ AC : [AtCoder](https://atcoder.jp)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 8. 12 | 2020. 8. 12 | LC | 21 | Merge Two Sorted Lists | Easy | Go | Linked list |
+|  2020. 8. 12 | 2020. 8. 12 | LC | 226 | Invert Binary Tree | Easy | Go | Tree |
+|  2020. 8. 12 | 2020. 8. 12 | LC | 448 | Find All Numbers Disappeared in an Array | Easy | Go | Array |
+|  2020. 8. 12 | 2020. 8. 12 | LC | 543 | Diameter of Binary Tree | Easy | Go | Tree |
 |  2020. 7. 26 | 2020. 7. 26 | LC | 258 | Add Digits | Easy | Python | Mathematics |
 |  2020. 7. 26 | 2020. 7. 26 | LC | 1528 | Shuffle String | Easy | Python | Array |
 |  2020. 7. 5 | 2020. 7. 5 | LC | 264 | Ugly Numbers II | Medium | Python | Dynamic programming |
