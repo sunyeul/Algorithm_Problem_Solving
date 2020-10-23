@@ -12,6 +12,7 @@ AC : [AtCoder](https://atcoder.jp)
 
 |  Date | Last Updated | Site | Number | Title | Difficulty | Language | Algorithm |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  2020. 10. 24 | 2020. 10. 24 | LC | 763 | Partition Labels | Medium | Python | Greedy algorithm |
 |  2020. 8. 13 | 2020. 8. 13 | LC | 70 | Climbing Stairs | Easy | Go | Dynamic programming |
 |  2020. 8. 13 | 2020. 8. 13 | LC | 101 | Symmetric Tree | Easy | Go | Recursive algorithm |
 |  2020. 8. 13 | 2020. 8. 13 | LC | 198 | House Robber | Easy | Go | Dynamic programming |
