@@ -15,15 +15,6 @@ var scanner = bufio.NewScanner(f)
 // var scanner = bufio.NewScanner(os.Stdin)
 var writer = bufio.NewWriter(os.Stdout)
 
-type pos struct {
-	i, j int
-}
-
-type status struct {
-	pos
-	day int
-}
-
 func init() {
 	scanner.Split(bufio.ScanWords)
 }
@@ -32,6 +23,15 @@ func nextInt() int {
 	scanner.Scan()
 	n, _ := strconv.Atoi(scanner.Text())
 	return n
+}
+
+type pos struct {
+	i, j int
+}
+
+type status struct {
+	pos
+	day int
 }
 
 func main() {
