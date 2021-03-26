@@ -1,4 +1,4 @@
-# [Problem Solving Record](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCCUDWOftmLZsLTjPTMokHz0reVZA0D5VWUOchj8e86neqNKNziHRFErvJYgruPSjPkijWIAxJJGPI/pubhtml?gid=0&single=true)
+# [Problem Solving Record](https://docs.google.com/spreadsheets/d/1ZNTOmgmu0IaWU-W61Ozl3NIGMvVbhbNYpAUtUQhvdfc/edit#gid=26932747)
 
 BOJ  : [BaekjoonOnlineJudge](https://www.acmicpc.net/user/res1235)
 
